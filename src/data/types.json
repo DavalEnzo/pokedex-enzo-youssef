@@ -1,0 +1,74 @@
+[
+  {
+    "name": "normal",
+    "color": "#A8A77A"
+  },
+  {
+    "name": "feu",
+    "color": "#EE8130"
+  },
+  {
+    "name": "eau",
+    "color": "#6390F0"
+  },
+  {
+    "name": "électrik",
+    "color": "#F7D02C"
+  },
+  {
+    "name": "plante",
+    "color": "#7AC74C"
+  },
+  {
+    "name": "glace",
+    "color": "#96D9D6"
+  },
+  {
+    "name": "combat",
+    "color": "#C22E28"
+  },
+  {
+    "name": "poison",
+    "color": "#A33EA1"
+  },
+  {
+    "name": "sol",
+    "color": "#E2BF65"
+  },
+  {
+    "name": "vol",
+    "color": "#A98FF3"
+  },
+  {
+    "name": "psy",
+    "color": "#F95587"
+  },
+  {
+    "name": "insecte",
+    "color": "#A6B91A"
+  },
+  {
+    "name": "roche",
+    "color": "#B6A136"
+  },
+  {
+    "name": "spectre",
+    "color": "#735797"
+  },
+  {
+    "name": "dragon",
+    "color": "#6F35FC"
+  },
+  {
+    "name": "ténèbres",
+    "color": "#705746"
+  },
+  {
+    "name": "acier",
+    "color": "#B7B7CE"
+  },
+  {
+    "name": "fée",
+    "color": "#D685AD"
+  }
+]
