@@ -1,7 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import pokemonData from './pokemons.json';
-import css from '../css/style.css';
+import pokemonData from '../data/pokemons.json';
 
 function PokemonList() {
   return (
