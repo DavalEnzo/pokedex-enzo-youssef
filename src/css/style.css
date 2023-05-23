@@ -3,3 +3,77 @@ body{
     padding: 0;
     background-color: #333;
 }
+
+.container h1 {
+    text-align: center;
+    color: #fff;
+}
+
+.container-box {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    line-height: 40px;
+}
+
+.list {
+    list-style: none;
+    width: 200px;
+    height: auto;
+    margin: 15px;
+    padding: 25px;
+    border: 1px solid;
+    text-align: center;
+    transition: transform 0.2s ease-in-out;
+    box-shadow: -1px 5px 13px 0px rgba(255,255,255,0.75);
+-webkit-box-shadow: -1px 5px 13px 0px rgba(255,255,255,0.75);
+-moz-box-shadow: -1px 5px 13px 0px rgba(255,255,255,0.75);
+  }
+  
+  .list:hover {
+    transform: scale(1.1);
+  }
+  
+  
+ ul li a {
+    outline: none;
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+.list img {
+    width: 100%;
+}
+
+
+
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Koulen&family=Lato&family=Nunito&family=Playfair+Display:ital@1&family=Prata&family=Raleway:ital,wght@1,100&family=Roboto&family=Roboto+Condensed&family=Teko&display=swap');
+
+.btn{
+
+    font-weight: 0;
+    font-size: 14px;
+    color: #fff;
+    background-color: #0066CC;
+    /* padding: 10px 30px; */
+    border: 2px solid #0066cc;
+    box-shadow: rgb(0, 0, 0) 0px 0px 0px 0px;
+    border-radius: 50px;
+    transition: 1000ms;
+    transform: translateY(0);
+    align-items: center;
+    cursor: pointer;
+}
+
+.btn:hover{
+
+transition : 1000ms;
+padding: 10px 50px;
+transform : translateY(-0px);
+background-color: #34539b;
+color: #0066cc;
+border: solid 2px #0066cc;
+}
+
